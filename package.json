@@ -1,0 +1,17 @@
+{
+  "name": "merkel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merkel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --harmony ./merkle.js"
+  },
+  "author": "kiat",
+  "license": "ISC",
+  "dependencies": {
+    "binascii": "0.0.2",
+    "crypto": "^1.0.1",
+    "nodemon": "^1.18.4"
+  }
+}
